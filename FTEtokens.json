@@ -1,0 +1,526 @@
+{
+  "global": {
+    "experiment": {
+      "Purple": {
+        "purple-50": {
+          "value": "#efe6fd",
+          "type": "color"
+        },
+        "purple-100": {
+          "value": "#ceb0fa",
+          "type": "color"
+        },
+        "purple-200": {
+          "value": "#b78af7",
+          "type": "color"
+        },
+        "purple-300": {
+          "value": "#9654f4",
+          "type": "color"
+        },
+        "purple-400": {
+          "value": "#8133f1",
+          "type": "color"
+        },
+        "purple-500": {
+          "value": "#6200ee",
+          "type": "color"
+        },
+        "purple-600": {
+          "value": "#5900d9",
+          "type": "color"
+        },
+        "purple-700": {
+          "value": "#4600a9",
+          "type": "color"
+        },
+        "purple-800": {
+          "value": "#360083",
+          "type": "color"
+        },
+        "purple-900": {
+          "value": "#290064",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "xs": {
+          "fontFamily": {
+            "value": "$fontFamilies.roboto",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": "$fontWeights.roboto-0",
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": "$lineHeights.0",
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": "$fontSize.0",
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": "$letterSpacing.0",
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": "$paragraphSpacing.0",
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "$textCase.none",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "$textDecoration.none",
+            "type": "textDecoration"
+          }
+        }
+      },
+      "borderRadius": {
+        "000": {
+          "value": "0",
+          "type": "borderRadius"
+        },
+        "010": {
+          "value": "2",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "fontFamilies": {
+      "roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "14",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "roboto-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "12",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    }
+  },
+  "Brand 1": {
+    "experiment": {
+      "borderRadius": {
+        "020": {
+          "value": "4",
+          "type": "borderRadius"
+        },
+        "030": {
+          "value": "6",
+          "type": "borderRadius"
+        }
+      },
+      "Green": {
+        "Light": {
+          "value": "#e6f6f4",
+          "type": "color"
+        },
+        "Light :hover": {
+          "value": "#d9f2ef",
+          "type": "color"
+        },
+        "Light :active": {
+          "value": "#b0e4dd",
+          "type": "color"
+        },
+        "Normal": {
+          "value": "#00a991",
+          "type": "color"
+        },
+        "Normal :hover": {
+          "value": "#009883",
+          "type": "color"
+        },
+        "Normal :active": {
+          "value": "#008774",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#007f6d",
+          "type": "color"
+        },
+        "Dark :hover": {
+          "value": "#006557",
+          "type": "color"
+        },
+        "Dark :active": {
+          "value": "#004c41",
+          "type": "color"
+        },
+        "Darker": {
+          "value": "#003b33",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "s": {
+          "fontFamily": {
+            "value": "$fontFamilies.helvetica",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": "$fontWeights.helvetica-3",
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": "$lineHeights.3",
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": "$fontSize.1",
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": "$letterSpacing.0",
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": "$paragraphSpacing.0",
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "$textCase.none",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "$textDecoration.none",
+            "type": "textDecoration"
+          }
+        }
+      }
+    },
+    "fontFamilies": {
+      "helvetica": {
+        "value": "Helvetica",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "3": {
+        "value": "20",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "helvetica-3": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "1": {
+        "value": "16",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "Brand 2": {
+    "experiment": {
+      "Blue": {
+        "Light": {
+          "value": "#e6ebf6",
+          "type": "color"
+        },
+        "Light :hover": {
+          "value": "#d9e1f2",
+          "type": "color"
+        },
+        "Light :active": {
+          "value": "#b0c1e4",
+          "type": "color"
+        },
+        "Normal": {
+          "value": "#0038a8",
+          "type": "color"
+        },
+        "Normal :hover": {
+          "value": "#003297",
+          "type": "color"
+        },
+        "Normal :active": {
+          "value": "#002d86",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#002a7e",
+          "type": "color"
+        },
+        "Dark :hover": {
+          "value": "#002265",
+          "type": "color"
+        },
+        "Dark :active": {
+          "value": "#00194c",
+          "type": "color"
+        },
+        "Darker": {
+          "value": "#00143b",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "m": {
+          "fontFamily": {
+            "value": "$fontFamilies.montserrat",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": "$fontWeights.montserrat-0",
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": "$lineHeights.0",
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": "$fontSize.0",
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": "$letterSpacing.0",
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": "$paragraphSpacing.0",
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "$textCase.none",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "$textDecoration.none",
+            "type": "textDecoration"
+          }
+        }
+      },
+      "borderRadius": {
+        "040": {
+          "value": "8",
+          "type": "borderRadius"
+        },
+        "050": {
+          "value": "10",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "fontFamilies": {
+      "montserrat": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      }
+    },
+    "fontWeights": {
+      "montserrat-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "24",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "28",
+        "type": "lineHeights"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    }
+  },
+  "Brand 3": {
+    "experiment": {
+      "Red": {
+        "Light": {
+          "value": "#f6e6eb",
+          "type": "color"
+        },
+        "Light :hover": {
+          "value": "#f2d9e2",
+          "type": "color"
+        },
+        "Light :active": {
+          "value": "#e4b0c2",
+          "type": "color"
+        },
+        "Normal": {
+          "value": "#a8003b",
+          "type": "color"
+        },
+        "Normal :hover": {
+          "value": "#970035",
+          "type": "color"
+        },
+        "Normal :active": {
+          "value": "#86002f",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#7e002c",
+          "type": "color"
+        },
+        "Dark :hover": {
+          "value": "#650023",
+          "type": "color"
+        },
+        "Dark :active": {
+          "value": "#4c001b",
+          "type": "color"
+        },
+        "Darker": {
+          "value": "#3b0015",
+          "type": "color"
+        }
+      },
+      "typography": {
+        "xl": {
+          "fontFamily": {
+            "value": "$fontFamilies.simplon-norm",
+            "type": "fontFamily"
+          },
+          "fontWeight": {
+            "value": "$fontWeights.simplon-norm-2",
+            "type": "fontWeight"
+          },
+          "lineHeight": {
+            "value": "$lineHeights.2",
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": "$fontSize.2",
+            "type": "fontSize"
+          },
+          "letterSpacing": {
+            "value": "$letterSpacing.1",
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": "$paragraphSpacing.0",
+            "type": "paragraphSpacing"
+          },
+          "textCase": {
+            "value": "$textCase.uppercase",
+            "type": "textCase"
+          },
+          "textDecoration": {
+            "value": "$textDecoration.none",
+            "type": "textDecoration"
+          }
+        }
+      },
+      "borderRadius": {
+        "060": {
+          "value": "12",
+          "type": "borderRadius"
+        },
+        "070": {
+          "value": "14",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "fontFamilies": {
+      "simplon-norm": {
+        "value": "Simplon Norm",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "2": {
+        "value": "36",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "simplon-norm-2": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "2": {
+        "value": "32",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "1": {
+        "value": "10%",
+        "type": "letterSpacing"
+      }
+    },
+    "textCase": {
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    }
+  }
+}
